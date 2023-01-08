@@ -47,7 +47,7 @@ We will define the resetBoard function next. We reset the content array and all 
 You can't perform that action at this time. You signed in with another tab or window. You signed out in another tab or…
 github.com
 
-# Multiplayer mode Using Socket.io
+# Multiplayer mode using Socket.io
 Now, we will integrate the project with Socket.io, so that two players can play the game at the same time. When one player clicks X, it should appear on the second player’s screen and when the second player clicks O, it should appear on the first player’s screen. How to implement it?
 
 # Set up server for socket.io
