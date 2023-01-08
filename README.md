@@ -115,3 +115,4 @@ It will receive the event and draw at the index, but we pass drawFromOther param
 
 That's it. The multiplayer game is ready to be played. Open localhost:8080 in two different browsers and click alternatively. The game should work.
 
+![Screenshot (17)](https://user-images.githubusercontent.com/93249038/211185665-a5a9f9c6-9c94-4a8d-91d5-1e1164e25b17.png)
