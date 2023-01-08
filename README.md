@@ -1,4 +1,4 @@
-# Lets Build a Multiplayer Realtime Tic Tac Toe Game with Socket.io and Vue.js
+# Let's Build a Multiplayer Realtime Tic Tac Toe Game with Socket.io and Vue.js
 
 #Vuejs #Java Script #Technology  #Programming.
 
