@@ -53,11 +53,11 @@ Now, we will integrate the project with Socket.io, so that two players can play 
 # Set up server for socket.io
 We will first create a folder outside the Vue project. Create a file server.js inside the folder. We will create an express server inside the folder.
 
-Run npm init. It will set apackage.json file.
+Run $ npm init. It will set a package.json file.
 
 Then run
 
-npm i socket.io
+$ npm i socket.io
 
 It will install socket.io in the project.
 
@@ -69,7 +69,9 @@ We will set the CORS rule, so that our Vue.js project running on port 8080 can a
 
 We will emit an event from the server and our Vue client should listen to it and receive it.
 
-# Run the server with : node server.js
+# Run the server with : 
+
+$ node server.js
 
 App.vue
 Now, we will set up socket.io on the client-side.
