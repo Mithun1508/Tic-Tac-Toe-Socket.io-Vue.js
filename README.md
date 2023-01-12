@@ -1,4 +1,8 @@
 # Let's Build a Multiplayer Realtime Tic Tac Toe Game with Socket.io and Vue.js
+[![Skills](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)](https://www.apple.com/macos/catalina-preview)
+[![Skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.apple.com/macos/catalina-preview)
+
+
 
 #Vuejs #JavaScript #Game development #Programming.
 
