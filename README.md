@@ -1,10 +1,10 @@
 # Let's Build a Multiplayer Realtime Tic Tac Toe Game with Socket.io and Vue.js
 [![Skills](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)](https://www.apple.com/macos/catalina-preview)
 [![Skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.apple.com/macos/catalina-preview)
-[![Skills](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-[![Skills](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-[![Skills](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-[![Skills](	https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+[![Skills](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://www.apple.com/macos/catalina-preview)
+[![Skills](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://www.apple.com/macos/catalina-preview)
+[![Skills](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://www.apple.com/macos/catalina-preview)
+[![Skills](	https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)](https://www.apple.com/macos/catalina-preview)
 
 
 
